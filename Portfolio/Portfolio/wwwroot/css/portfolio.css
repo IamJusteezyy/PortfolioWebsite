@@ -286,6 +286,10 @@
     top: 8px;
   }
 
+.social-icon {
+    color: var(--primary-color);
+}
+
 
 
   /*---------------------------------------
@@ -316,7 +320,7 @@
   }
 
   .img-fluid {
-      max-width: 80%;
+      max-width: 100%;
   }
 
 
